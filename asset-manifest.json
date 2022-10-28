@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/practiceCSSlib/static/css/main.3b483a66.css",
-    "main.js": "/practiceCSSlib/static/js/main.3c128ee4.js",
+    "main.js": "/practiceCSSlib/static/js/main.39c781e4.js",
     "static/media/illustration-thank-you.svg": "/practiceCSSlib/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
     "index.html": "/practiceCSSlib/index.html",
     "static/media/icon-star.svg": "/practiceCSSlib/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
     "main.3b483a66.css.map": "/practiceCSSlib/static/css/main.3b483a66.css.map",
-    "main.3c128ee4.js.map": "/practiceCSSlib/static/js/main.3c128ee4.js.map"
+    "main.39c781e4.js.map": "/practiceCSSlib/static/js/main.39c781e4.js.map"
   },
   "entrypoints": [
     "static/css/main.3b483a66.css",
-    "static/js/main.3c128ee4.js"
+    "static/js/main.39c781e4.js"
   ]
 }
