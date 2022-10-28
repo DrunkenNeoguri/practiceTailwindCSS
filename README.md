@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/17th-challenge-interactive-rating-component-with-tailwind-and-react-tDYgentWRx)
 - [Live Site URL](https://drunkenneoguri.github.io/practiceCSSlib/)
 
 ## My process
