@@ -105,8 +105,10 @@ function App() {
           Frontend Mentor
         </span>
         . Coded by{" "}
-        <span href="#" className="text-royal-blue text-xs">
-          Your Name Here
+        <span
+          href="https://github.com/DrunkenNeoguri"
+          className="text-royal-blue text-xs">
+          develop_neoguri
         </span>
         .
       </footer>
