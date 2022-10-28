@@ -29,10 +29,10 @@ Users should be able to:
 ### Screenshot
 
 **Desktop Version**
-![desktop](https://github.com/DrunkenNeoguri/practiceCSSlib/blob/main/images/mobile.gif?raw=true)
+![desktop](https://github.com/DrunkenNeoguri/practiceCSSlib/blob/main/images/website.gif?raw=true)
 
 **Mobile Version**
-![Mobile](https://github.com/DrunkenNeoguri/practiceCSSlib/blob/main/images/website.gif?raw=true)
+![Mobile](https://github.com/DrunkenNeoguri/practiceCSSlib/blob/main/images/mobile.gif?raw=true)
 
 ### Links
 
