@@ -28,7 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+**Desktop Version**
+![desktop](https://github.com/DrunkenNeoguri/practiceCSSlib/blob/main/images/mobile.gif?raw=true)
+
+**Mobile Version**
+![Mobile](https://github.com/DrunkenNeoguri/practiceCSSlib/blob/main/images/website.gif?raw=true)
 
 ### Links
 
