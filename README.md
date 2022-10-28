@@ -13,6 +13,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -32,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://drunkenneoguri.github.io/practiceCSSlib/)
 
 ## My process
 
@@ -58,3 +59,8 @@ Users should be able to:
 
 - Frontend Mentor - [@drunken_neoguri](https://www.frontendmentor.io/profile/DrunkenNeoguri)
 - Twitter - [@develop_neoguri](https://twitter.com/develop_neoguri)
+
+## Acknowledgments
+
+- [2022-10-25: Tailwind CSS 학습기 (1)](https://develop-neoguri.notion.site/2022-10-25-Tailwind-CSS-1-a16b601b5b334766a7bc62feb728a1c8)
+- [2022-10-28: Tailwind CSS 학습기 (2)](https://develop-neoguri.notion.site/2022-10-28-Tailwind-CSS-2-d974e4d7dad24a438122ba5cf07911db)

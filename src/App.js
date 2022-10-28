@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <div className="bg-sp-charcoal flex-col box-border container m-auto md:w-96 w-88 h-96 p-6 md:p-8 rounded-2xl my-24">
+      <div className="bg-sp-charcoal flex-col box-border container m-auto md:w-96 w-88 h-96 p-6 md:p-8 rounded-2xl my-44">
         {submitState === false ? (
           <div>
             <div className="bg-dark-blue w-12 h-12 rounded-full flex justify-center items-center">
