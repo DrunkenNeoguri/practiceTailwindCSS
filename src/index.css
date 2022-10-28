@@ -23,3 +23,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+@layer components {
+  .rate-button {
+    @apply bg-dark-blue text-medium-grey w-12 h-12 rounded-3xl flex justify-center items-center hover:bg-sp-orange hover:text-white;
+  }
+  .active-button {
+    @apply bg-medium-grey text-white w-12 h-12 rounded-3xl flex justify-center items-center hover:bg-sp-orange hover:text-white;
+  }
+}
