@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4c0bcf7.css",
-    "main.js": "/static/js/main.b315e986.js",
-    "static/media/illustration-thank-you.svg": "/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
-    "index.html": "/index.html",
-    "static/media/icon-star.svg": "/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
-    "main.a4c0bcf7.css.map": "/static/css/main.a4c0bcf7.css.map",
-    "main.b315e986.js.map": "/static/js/main.b315e986.js.map"
+    "main.css": "/practiceCSSlib/static/css/main.a4c0bcf7.css",
+    "main.js": "/practiceCSSlib/static/js/main.390ea272.js",
+    "static/media/illustration-thank-you.svg": "/practiceCSSlib/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/practiceCSSlib/index.html",
+    "static/media/icon-star.svg": "/practiceCSSlib/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.a4c0bcf7.css.map": "/practiceCSSlib/static/css/main.a4c0bcf7.css.map",
+    "main.390ea272.js.map": "/practiceCSSlib/static/js/main.390ea272.js.map"
   },
   "entrypoints": [
     "static/css/main.a4c0bcf7.css",
-    "static/js/main.b315e986.js"
+    "static/js/main.390ea272.js"
   ]
 }
